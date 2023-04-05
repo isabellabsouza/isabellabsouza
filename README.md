@@ -1,4 +1,9 @@
-### Hi there 👋
+## Git da Isabella 😎
+
+- 5º semestre de Ciência da Computação no IFSP
+<div>
+  <img = height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellabsouza&layout=compact"/>
+</div>
 
 <!--
 **isabellabsouza/isabellabsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
