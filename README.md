@@ -1,11 +1,33 @@
 ## Git da Isabella 😎
 
 - 5º semestre de Ciência da Computação no IFSP
+
+##
+
 <div>
-  <img = height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellabsouza&layout=compact"/>
+  <img = height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellabsouza&layout=compact&theme=synthwave"/>
+  <img = height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellabsouza&show_icons=true&theme=synthwave"/>
+</div>
+
+
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/isabella-bicudo-de-souza-1879141bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 <!--
+<div>
+  <a href="https://www.linkedin.com/in/isabella-bicudo-de-souza-1879141bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 **isabellabsouza/isabellabsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
