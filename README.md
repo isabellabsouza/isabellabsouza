@@ -24,6 +24,8 @@
   <a href="https://www.linkedin.com/in/isabella-bicudo-de-souza-1879141bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=isabellabsouza&repo=github-readme-stats)](https://github.com/isabellabsouza/github-readme-stats)
+
 <!--
 <div>
   <a href="https://www.linkedin.com/in/isabella-bicudo-de-souza-1879141bb/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
