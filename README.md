@@ -1,6 +1,6 @@
 ## Git da Isabella 😎
 
-- 6º semestre de Ciência da Computação no IFSP
+- 7º semestre de Ciência da Computação no IFSP
 
 ##
 
