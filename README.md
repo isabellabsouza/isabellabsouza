@@ -26,7 +26,7 @@ Formada em Ciência da Computação no Instituto Federal de São Paulo
 <div>
   <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellabsouza&theme=radical&show_icons=true&hide_border=true&layout=compact" />
   <!-- <img align="center" height="100%" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=isabellabsouza&theme=radical&hide_border=true" /> -->
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=isabellabsouza&theme=radical&show_icons=true&hide_border=true&count_private=true" /> 
+  <img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=isabellabsouza&theme=radical&show_icons=true&hide_border=true&count_private=true" /> 
 </div>
 
 ##
